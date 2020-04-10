@@ -1,0 +1,44 @@
+#name {
+    text-align: center;
+}
+
+#contactDetails {
+    text-align: center;
+    
+}
+
+#contactDetails ul li {
+    list-style: none;
+    display: inline;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    border: 2px pink;
+    border-style: groove;
+}
+
+
+h1 {
+    color: red;
+    
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    color: green;
+    text-align: center;
+    border: 4px solid black;
+    margin: 3px ;
+    padding: 2%;
+}
+
+.sectionTitle {
+    text-align: center;
+}
